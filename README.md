@@ -14,8 +14,8 @@ iOS world is vast. There are a lot of topics to learn from Cocoa/Cocoa Touch, de
 
 # Computer Science
 The following list are the base concepts to learn and being on shape with computer science topics:
-* Algorithms
-* Data Structures
+* [Algorithms](#algorithms)
+* [Data Structures](#data-structures)
 
 ### References for studying:
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
