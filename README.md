@@ -2,7 +2,7 @@
 The propose of this document is the creation of a repository with information about how to start and grow in my career becoming an expert iOS developer. Also, this document could works as an interview guide to cover the most important topics.
 
 ## ⚠️Disclaimer⚠️
-The following information is work in progress. Feel free to create a pull request if you think a topic/tutorial/course is important to be here.
+The following information is **work in progress**. Feel free to create a pull request if you think a topic/tutorial/course is important to be here.
 
 # Two sides
 Let's divide the roadmap in two major topics:
@@ -26,9 +26,9 @@ iOS Support two languages: Objective-C (used for two decades) and Swift from 201
 asdasd
 
 ### Swift
-Official website: https://swift.org/
+* Official website: https://swift.org/
 
-Language guide: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+* Language guide: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 
-Best practices of the language: https://swift.org/documentation/api-design-guidelines/
+* Design guidelines: https://swift.org/documentation/api-design-guidelines/
 
