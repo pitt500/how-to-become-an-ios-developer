@@ -26,4 +26,7 @@ iOS Support two languages: Objective-C (used for two decades) and Swift from 201
 asdasd
 
 ### Swift
-asd
+Official website: https://swift.org/
+Language guide: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+Best practices of the language: https://swift.org/documentation/api-design-guidelines/
+
