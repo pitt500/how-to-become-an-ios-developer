@@ -17,11 +17,13 @@ The following list are the base concepts to learn and being on shape with comput
 * Algorithms
 * Data Structures
 
-Check [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) to study data structure and algorithms in Swift.
-
+### References for studying:
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
+* [Cracking the coding interview](http://www.crackingthecodinginterview.com/)
+* [CLRS](https://www.amazon.com.mx/gp/product/0262033844/ref=ox_sc_saved_title_6?smid=AVDBXBAVVSXLQ&psc=1)
 
 ## Algorithms
-
+WIP
 
 ## Data Structures
 
