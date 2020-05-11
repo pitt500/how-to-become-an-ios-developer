@@ -13,7 +13,18 @@ This topic is frequently ignored by some developers thinking that mobile devs "d
 iOS world is vast. There are a lot of topics to learn from Cocoa/Cocoa Touch, design patterns, software architectures and of course, Swift and Objective-C languages. This guide will help you to focus and find a way to study all those concepts.
 
 # Computer Science
-asdads
+The following list are the base concepts to learn and being on shape with computer science topics:
+* Algorithms
+* Data Structures
+
+Check [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) to study data structure and algorithms in Swift.
+
+
+## Algorithms
+
+
+## Data Structures
+
 
 # iOS
 The following list include the most important concepts you should know in order to develop apps for iOS:
@@ -22,13 +33,13 @@ The following list include the most important concepts you should know in order 
 ## Languages
 iOS Support two languages: Objective-C (used for two decades) and Swift from 2014. You can create apps with a single of these languages or mix them if it's convinient. Nowadays, Apple take Swift as its main language for development, however, there are a lot of legacy apps that still require support from Objective-C (because is expensive and time consuming doing a migration), that's why it's important to know both of them. If you are new and wonder where to start, I recommend you to start with Swift, because it's well robust and supported today, keep it as the main language to develop iOS apps, but also keep knowledge of Objective-C, that will help you in interviews or situations when you require to interact with it.
 
-### Objective-C
-* [Official Objective-C documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-
-### Swift
+## Swift
 * [Official website](https://swift.org/)
 
 * [Language guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
 * [Design guidelines](https://swift.org/documentation/api-design-guidelines/)
+
+## Objective-C
+* [Official Objective-C documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
