@@ -23,9 +23,22 @@ The following list are the base concepts to learn and being on shape with comput
 * [CLRS](https://www.amazon.com.mx/gp/product/0262033844/ref=ox_sc_saved_title_6?smid=AVDBXBAVVSXLQ&psc=1)
 
 ## Algorithms
-WIP
+* Big-O Notation
+* Strings
+* Bit Manipulation
+* Sorting
+* Recursion
+* Dynamic Programming
 
 ## Data Structures
+* Arrays
+* Sets
+* Dictionaries
+* Lists
+* Stacks
+* Queues
+* Trees
+* Graphs
 
 
 # iOS
