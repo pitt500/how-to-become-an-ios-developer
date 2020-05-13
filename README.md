@@ -28,7 +28,8 @@ The following list are the base concepts to learn and being on shape with comput
 * [Sorting](https://github.com/raywenderlich/swift-algorithm-club#sorting)
 * [Recursion](https://www.youtube.com/watch?v=B0NtAFf4bvU)
 * [Dynamic Programming](https://www.byte-by-byte.com/dpbook/)
-*Check [Cracking the coding interview](http://www.crackingthecodinginterview.com/) for more details
+
+> Check [Cracking the coding interview](http://www.crackingthecodinginterview.com/) for more details
 
 ## Data Structures
 * [Arrays](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
@@ -40,7 +41,8 @@ The following list are the base concepts to learn and being on shape with comput
 * [Queues](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Queue)
 * [Trees](https://github.com/raywenderlich/swift-algorithm-club#trees)
 * [Graphs](https://github.com/raywenderlich/swift-algorithm-club#graphs)
-*Check [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) for more details
+
+> Check [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) for more details
 
 
 # iOS
