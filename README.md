@@ -62,6 +62,8 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 
 * [Design guidelines](https://swift.org/documentation/api-design-guidelines/)
 
+* [Swift Style Guide](https://google.github.io/swift/) (by Google)
+
 ## Objective-C
 * [Official Objective-C documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
