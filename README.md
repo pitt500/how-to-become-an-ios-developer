@@ -23,22 +23,24 @@ The following list are the base concepts to learn and being on shape with comput
 * [CLRS](https://www.amazon.com.mx/gp/product/0262033844/ref=ox_sc_saved_title_6?smid=AVDBXBAVVSXLQ&psc=1)
 
 ## Algorithms
-* Big-O Notation
-* Strings
-* Bit Manipulation
-* Sorting
-* Recursion
-* Dynamic Programming
+* [Big-O Notation](https://www.youtube.com/watch?v=D6xkbGLQesk)
+* [Bit Manipulation](https://docs.swift.org/swift-book/LanguageGuide/AdvancedOperators.html)
+* [Sorting](https://github.com/raywenderlich/swift-algorithm-club#sorting)
+* [Recursion](https://www.youtube.com/watch?v=B0NtAFf4bvU)
+* [Dynamic Programming](https://www.byte-by-byte.com/dpbook/)
+*Check [Cracking the coding interview](http://www.crackingthecodinginterview.com/) for more details
 
 ## Data Structures
-* Arrays
-* Sets
-* Dictionaries
-* Lists
-* Stacks
-* Queues
-* Trees
-* Graphs
+* [Arrays](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
+* [Strings](https://docs.swift.org/swift-book/LanguageGuide/StringsAndCharacters.html)
+* [Sets](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
+* [Dictionaries](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
+* [Lists](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Linked%20List)
+* [Stacks](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Stack)
+* [Queues](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Queue)
+* [Trees](https://github.com/raywenderlich/swift-algorithm-club#trees)
+* [Graphs](https://github.com/raywenderlich/swift-algorithm-club#graphs)
+*Check [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) for more details
 
 
 # iOS
