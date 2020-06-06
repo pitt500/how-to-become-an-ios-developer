@@ -74,6 +74,17 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 ## Objective-C
 * [Official Objective-C documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
+# Memory Management
+* [Automatic Reference Counting](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
+* [Memory Safety](https://docs.swift.org/swift-book/LanguageGuide/MemorySafety.html)
+* [Value vs Reference Types](https://docs.swift.org/swift-book/LanguageGuide/MemorySafety.html)
+* [Understanding Swift Performance](https://developer.apple.com/videos/play/wwdc2016/416/)
+* [Improving Battery Life and Performance](https://developer.apple.com/videos/play/wwdc2019/417/)
+* [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416/)
+
+# Concurrency
+
+
 # Design Patterns
 Design patterns are templates to problems well known and help us to builds apps with great quality, maintenance, and scalability. The following resources will help you to learn more about those patterns used in iOS.
 
@@ -88,3 +99,7 @@ Apple provide us some design principles for all the different platforms in its e
 
 * [Human Interface Guidelines for iOS](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
+# SwiftUI
+[Official Apple SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/)
+[Thinking of SwiftUI](https://www.objc.io/books/thinking-in-swiftui/)
+[Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
