@@ -100,6 +100,6 @@ Apple provide us some design principles for all the different platforms in its e
 * [Human Interface Guidelines for iOS](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
 # SwiftUI
-[Official Apple SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/)
-[Thinking of SwiftUI](https://www.objc.io/books/thinking-in-swiftui/)
-[Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
+* [Official Apple SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/)
+* [Thinking of SwiftUI](https://www.objc.io/books/thinking-in-swiftui/)
+* [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
