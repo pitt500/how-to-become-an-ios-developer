@@ -54,7 +54,7 @@ The following list are the base concepts to learn and being on shape with comput
 The following list include the most important concepts you should know in order to develop apps for iOS:
 * [Languages](#languages)
 
-## Languages
+# Languages
 iOS Support two languages: Objective-C (used for two decades) and Swift from 2014. You can create apps with a single of these languages or mix them if it's convinient. Nowadays, Apple take Swift as its main language for development, however, there are a lot of legacy apps that still require support from Objective-C (because is expensive and time consuming doing a migration), that's why it's important to know both of them. 
 
 ## Which language to learn?
@@ -73,4 +73,10 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 
 ## Objective-C
 * [Official Objective-C documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+
+# Design Patterns
+
+* [Design Patterns in Swift](https://refactoring.guru/design-patterns/swift)
+* [Design Patterns by Tutorials](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
+* [Advanced iOS Architecture](https://store.raywenderlich.com/products/advanced-ios-app-architecture)
 
