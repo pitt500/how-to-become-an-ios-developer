@@ -1,10 +1,10 @@
 # How to become an iOS Developer
 The propose of this document is the creation of a repository with information about how to start and grow in my career becoming an expert iOS developer. Also, this document could works as an interview guide to cover the most important topics.
 
-## ⚠️Disclaimer⚠️
+# ⚠️Disclaimer⚠️
 The following information is **work in progress**. Feel free to create a pull request if you think a topic/tutorial/course is important to be here.
 
-## How to start?
+# How to start?
 If you aren't new in the programming world, but yes for iOS, follow this [quick guide](https://github.com/pitt500/how-to-become-an-ios-developer/blob/master/QuickGuide.md) first. If you have experience with iOS already and you wanted to dominate more about all the topics to become an expert, please continue reading the document.
 
 # Two sides
