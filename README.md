@@ -75,6 +75,7 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 * [Official Objective-C documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
 # Design Patterns
+Design patterns are templates to problems well known and help us to builds apps with great quality, maintenance, and scalability. The following resources will help you to learn more about those patterns used in iOS.
 
 * [Design Patterns in Swift](https://refactoring.guru/design-patterns/swift)
 * [Design Patterns by Tutorials](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
