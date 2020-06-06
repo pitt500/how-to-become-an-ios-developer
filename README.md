@@ -81,3 +81,8 @@ Design patterns are templates to problems well known and help us to builds apps 
 * [Design Patterns by Tutorials](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
 * [Advanced iOS Architecture](https://store.raywenderlich.com/products/advanced-ios-app-architecture)
 
+# Human Interface Guidelines
+Apple provide us some design principles for all the different platforms in its ecosytem like macOS, WatchOS, tvOS and of course iOS (iPadOS included). Learn this topic in order to provide a better user experience for your users in all your apps. That's makes the difference between "another random app" and "the app taht everybody wants and know how to use it".
+
+* [Human Interface Guidelines for iOS](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+
