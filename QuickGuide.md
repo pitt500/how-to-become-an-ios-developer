@@ -5,8 +5,7 @@ resources to jump in the iOS world. Those sources are listed to cover a large se
 ## 100 Days of Swift
 One of the greatest iniciatives to start with Swift/iOS is brought you by Paul Hudson, creator of HackingWithSwift project. It's very simple, just go to [100 days of Swift](https://www.hackingwithswift.com/100) page, and follow the rules, that is basically spend 1 hours *daily* learning something about Swift. 
 
-![alt text][logo]
-[logo]: https://github.com/pitt500/how-to-become-an-ios-developer/blob/master/100DaysSwift.png "asdasd"
+[![100 Days of Swift](https://github.com/pitt500/how-to-become-an-ios-developer/blob/master/100DaysSwift.png)](https://www.hackingwithswift.com/100 "100 days of Swift")
 
 ## Free Resources
 
