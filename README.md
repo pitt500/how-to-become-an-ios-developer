@@ -57,7 +57,7 @@ The following list include the most important concepts you should know in order 
 ## Languages
 iOS Support two languages: Objective-C (used for two decades) and Swift from 2014. You can create apps with a single of these languages or mix them if it's convinient. Nowadays, Apple take Swift as its main language for development, however, there are a lot of legacy apps that still require support from Objective-C (because is expensive and time consuming doing a migration), that's why it's important to know both of them. 
 
-## How to start?
+## Which language to learn?
 If you are new and wonder where to start, I recommend you to start with Swift, because it's well robust and supported today, keep it as the main language to develop iOS apps, but also keep knowledge of Objective-C, that will help you in interviews or situations when you require to interact with it.
 
 ## Swift
