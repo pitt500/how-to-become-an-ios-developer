@@ -4,6 +4,9 @@ The propose of this document is the creation of a repository with information ab
 ## ⚠️Disclaimer⚠️
 The following information is **work in progress**. Feel free to create a pull request if you think a topic/tutorial/course is important to be here.
 
+## Quick Start
+If you aren't new in programming world, but for iOS, follow this [quick guide](https://github.com/pitt500/how-to-become-an-ios-developer/blob/master/QuickGuide.md).
+
 # Two sides
 Let's divide the roadmap in two major topics:
 * [Computer Science](#computer-science)
