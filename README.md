@@ -80,7 +80,7 @@ Design patterns are templates to problems well known and help us to builds apps 
 * [Design Patterns in Swift](https://refactoring.guru/design-patterns/swift)
 * [Design Patterns by Tutorials](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
 * [Advanced iOS Architecture](https://store.raywenderlich.com/products/advanced-ios-app-architecture)
-* [SOLID principles applied in iOS](https://marcosantadev.com/solid-principles-applied-swift/)
+* [SOLID principles applied to Swift](https://marcosantadev.com/solid-principles-applied-swift/)
 * [Clean Architecture](https://www.amazon.com/-/es/Clean-Architecture-Craftsmans-Software-Structure-ebook-dp-B075LRM681/dp/B075LRM681/ref=mt_kindle?_encoding=UTF8&me=&qid=1591475974)
 
 # Human Interface Guidelines
