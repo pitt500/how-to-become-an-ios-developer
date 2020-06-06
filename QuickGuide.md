@@ -1,6 +1,6 @@
 # Quick guide for newcomers in iOS
 If you have experience programming before (mobile experience not required but recommended), you could use the following
-resources to jump in the iOS world. These sources are listed below to cover the most important topics to know in iOS.
+resources to jump in the iOS world. These sources are listed below to cover the most important topics you should know in iOS.
 
 ## 100 Days of Swift
 One of the greatest iniciatives to start with Swift/iOS is brought you by Paul Hudson, creator of [HackingWithSwift](https://www.hackingwithswift.com/) project. It's very simple, just go to [100 days of Swift](https://www.hackingwithswift.com/100) page, and follow the rules, that is basically spend 1 hours **daily** learning something about Swift. 
@@ -17,3 +17,6 @@ Along with 100 days of swift, these resources will help you to introduce to the 
 * [Data & Networking](https://www.raywenderlich.com/ios/paths/iosdatanetworking)
 * [XCode & App Store](https://www.raywenderlich.com/ios/paths/iostools)
 * [iOS Course by Stanford](https://cs193p.sites.stanford.edu/)
+
+## Extras
+* [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
