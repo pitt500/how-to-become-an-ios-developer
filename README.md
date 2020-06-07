@@ -92,6 +92,21 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 * [Apple Documentation for GCD](https://developer.apple.com/documentation/DISPATCH)
 * [Apple Documentation for Operations](https://developer.apple.com/documentation/foundation/operation)
 
+# Testing
+* [XCTest Framework](https://developer.apple.com/documentation/xctest)
+* [Unit and UI Testing in iOS](https://www.raywenderlich.com/960290-ios-unit-testing-and-ui-testing-tutorial)
+* [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
+* [UI Testing in Xcode](https://developer.apple.com/videos/play/wwdc2015/406/)
+* [Getting Started with UI Testing](https://www.swiftbysundell.com/articles/getting-started-with-xcode-ui-testing-in-swift/)
+* [Integration tests](https://www.swiftbysundell.com/articles/integration-tests-in-swift/)
+* [Test Driven Developments in iOS](https://store.raywenderlich.com/products/ios-test-driven-development)
+
+## Beta Distribution
+* [TestFlight] (https://developer.apple.com/videos/play/app-store-connect/101/)
+
+# App Distribution
+* [App Store Connect](https://developer.apple.com/videos/play/wwdc2019/301/)
+* [App Distribution from Ad-hoc to Enterprise](https://developer.apple.com/videos/play/wwdc2019/304/)
 
 # Design Patterns
 Design patterns are templates to problems well known and help us to builds apps with great quality, maintenance, and scalability. The following resources will help you to learn more about those patterns used in iOS.
