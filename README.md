@@ -133,9 +133,9 @@ Apple provide us some design principles for all the different platforms in its e
 * [Auto Layout by tutorials](https://store.raywenderlich.com/products/auto-layout-by-tutorials)
 
 # Networking
-[URLSession](https://developer.apple.com/documentation/foundation/urlsession)
-[URLSession Tutorial](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
-[URLSession Best Practices](https://developer.apple.com/videos/play/wwdc2016/711/)
+* [URLSession](https://developer.apple.com/documentation/foundation/urlsession)
+* [URLSession Tutorial](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
+* [URLSession Best Practices](https://developer.apple.com/videos/play/wwdc2016/711/)
 
 # Push Notifications
 * [Push Notifications by tutorials](https://store.raywenderlich.com/products/push-notifications-by-tutorials)
