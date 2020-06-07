@@ -102,7 +102,7 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 * [Test Driven Developments in iOS](https://store.raywenderlich.com/products/ios-test-driven-development)
 
 ## Beta Distribution
-* [TestFlight] (https://developer.apple.com/videos/play/app-store-connect/101/)
+* [TestFlight](https://developer.apple.com/videos/play/app-store-connect/101/)
 
 # App Distribution
 * [App Store Connect](https://developer.apple.com/videos/play/wwdc2019/301/)
