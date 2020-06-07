@@ -86,6 +86,8 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 * [Grand Central Dispatch Tutorial](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
 * [Operations Tutorial](https://www.raywenderlich.com/5293-operation-and-operationqueue-tutorial-in-swift)
 * [Concurrency By Tutorials](https://store.raywenderlich.com/products/concurrency-by-tutorials)
+* [Concurrent Programming with GCD](https://developer.apple.com/videos/play/wwdc2016/720/)
+* [Modernizing Grand Central Dispatch Usage](https://developer.apple.com/videos/play/wwdc2017/706/)
 
 * [Apple Documentation for GCD](https://developer.apple.com/documentation/DISPATCH)
 * [Apple Documentation for Operations](https://developer.apple.com/documentation/foundation/operation)
