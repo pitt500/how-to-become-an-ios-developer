@@ -99,7 +99,6 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 * [Concurrency By Tutorials](https://store.raywenderlich.com/products/concurrency-by-tutorials)
 * [Concurrent Programming with GCD](https://developer.apple.com/videos/play/wwdc2016/720/)
 * [Modernizing Grand Central Dispatch Usage](https://developer.apple.com/videos/play/wwdc2017/706/)
-
 * [Apple Documentation for GCD](https://developer.apple.com/documentation/DISPATCH)
 * [Apple Documentation for Operations](https://developer.apple.com/documentation/foundation/operation)
 
