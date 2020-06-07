@@ -73,6 +73,10 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 
 ## Objective-C
 * [Official Objective-C documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+* Blocks
+* KVO
+* KVC
+* Bridging with Swift
 
 # Memory Management
 * [Automatic Reference Counting](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
@@ -139,6 +143,25 @@ Apple provide us some design principles for all the different platforms in its e
 
 # Push Notifications
 * [Push Notifications by tutorials](https://store.raywenderlich.com/products/push-notifications-by-tutorials)
+
+# Persisting Data
+* [Saving Data in iOS](https://www.raywenderlich.com/5429634-saving-data-in-ios)
+* [UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults)
+* [Saving data with UserDefaults](https://www.hackingwithswift.com/example-code/system/how-to-save-user-settings-using-userdefaults)
+* [Property Lists](https://www.youtube.com/watch?v=2Fed9NbSXqw)
+* [Encoding and Decoding objects](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
+
+## Core Data
+* [Core Data](https://developer.apple.com/documentation/coredata)
+* [Beginning Core Data](https://www.raywenderlich.com/7104-beginning-core-data)
+* [Intermadiate Core Data](https://www.raywenderlich.com/3815-intermediate-core-data)
+* [Multiple Contexts in Core Data](https://www.raywenderlich.com/7586-multiple-managed-object-contexts-with-core-data-tutorial)
+* [Core Data by tutorials](https://store.raywenderlich.com/products/core-data-by-tutorials)
+* [Core Data for SwiftUI](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
+
+## External libraries
+* [Realm](https://realm.io/docs/swift/latest)
+* [SQLite](https://www.raywenderlich.com/6620276-sqlite-with-swift-tutorial-getting-started)
 
 # SwiftUI
 * [Official Apple SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/)
