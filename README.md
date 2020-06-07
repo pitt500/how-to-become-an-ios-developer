@@ -122,6 +122,23 @@ Apple provide us some design principles for all the different platforms in its e
 
 * [Human Interface Guidelines for iOS](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
+# Cocoa Touch
+* [UIKit](https://developer.apple.com/documentation/uikit)
+* [Foundation](https://developer.apple.com/documentation/foundation)
+
+## Auto layout
+* [Auto Layout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)
+* [Auto Layout tutorial](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
+* [Auto Layout by tutorials](https://store.raywenderlich.com/products/auto-layout-by-tutorials)
+
+# Networking
+[URLSession](https://developer.apple.com/documentation/foundation/urlsession)
+[URLSession Tutorial](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
+[URLSession Best Practices](https://developer.apple.com/videos/play/wwdc2016/711/)
+
+# Push Notifications
+* [Push Notifications by tutorials](https://store.raywenderlich.com/products/push-notifications-by-tutorials)
+
 # SwiftUI
 * [Official Apple SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/)
 * [Thinking of SwiftUI](https://www.objc.io/books/thinking-in-swiftui/)
