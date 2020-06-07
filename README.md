@@ -82,7 +82,13 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 * [Improving Battery Life and Performance](https://developer.apple.com/videos/play/wwdc2019/417/)
 * [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416/)
 
-# Concurrency
+# Multithreading
+* [Grand Central Dispatch Tutorial](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
+* [Operations Tutorial](https://www.raywenderlich.com/5293-operation-and-operationqueue-tutorial-in-swift)
+* [Concurrency By Tutorials](https://store.raywenderlich.com/products/concurrency-by-tutorials)
+
+* [Apple Documentation for GCD](https://developer.apple.com/documentation/DISPATCH)
+* [Apple Documentation for Operations](https://developer.apple.com/documentation/foundation/operation)
 
 
 # Design Patterns
