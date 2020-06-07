@@ -144,3 +144,8 @@ Apple provide us some design principles for all the different platforms in its e
 * [Official Apple SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/)
 * [Thinking of SwiftUI](https://www.objc.io/books/thinking-in-swiftui/)
 * [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
+* [SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216/)
+* [SwiftUI on all Devices](https://developer.apple.com/videos/play/wwdc2019/240/)
+
+## Xcode Previews
+* [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233/)
