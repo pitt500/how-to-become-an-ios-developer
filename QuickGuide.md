@@ -3,7 +3,7 @@ If you have experience programming before (mobile experience not required but re
 resources to jump in the iOS world. These sources are listed below to cover the most important topics you should know in iOS.
 
 ## 100 Days of Swift
-One of the greatest iniciatives to start with Swift/iOS is brought you by Paul Hudson, creator of [HackingWithSwift](https://www.hackingwithswift.com/) project. It's very simple, just go to [100 days of Swift](https://www.hackingwithswift.com/100) page, and follow the rules, that is basically spend 1 hours **daily** learning something about Swift. 
+One of the greatest initiatives to start with Swift/iOS is brought you by Paul Hudson, creator of [HackingWithSwift](https://www.hackingwithswift.com/) project. It's very simple, just go to [100 days of Swift](https://www.hackingwithswift.com/100) page, and follow the rules, that is basically spend at least 1 hours **daily** learning something about Swift.
 
 [![100 Days of Swift](https://github.com/pitt500/how-to-become-an-ios-developer/blob/master/100DaysSwift.png)](https://www.hackingwithswift.com/100 "100 days of Swift")
 
