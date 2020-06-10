@@ -66,7 +66,7 @@ The following list include the most important concepts you should know in order 
 * [SwiftUI](#swiftui)
 
 # Languages
-iOS Support two languages: Objective-C (used for two decades) and Swift from 2014. You can create apps with a single of these languages or mix them if it's convinient. Nowadays, Apple take Swift as its main language for development, however, there are a lot of legacy apps that still require support from Objective-C (because is expensive and time consuming doing a migration), that's why it's important to know both of them. 
+iOS Support two languages: Objective-C (used for two decades) and Swift from 2014. You can create apps with a single of these languages or mix them if it's convinient. Nowadays, Apple take Swift as its main language for development, however, there are a lot of legacy apps that still require support from Objective-C (because is expensive and time consuming doing a migration), that's why it's important to know both of them.
 
 ## Which language to learn?
 If you are new and wonder where to start, I recommend you to start with Swift, because it's well robust and supported today, keep it as the main language to develop iOS apps, but also keep knowledge of Objective-C, that will help you in interviews or situations when you require to interact with it.
@@ -80,10 +80,10 @@ If you are new and wonder where to start, I recommend you to start with Swift, b
 
 ## Objective-C
 * [Official Objective-C documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-* Blocks
-* KVO
-* KVC
-* Bridging with Swift
+* [Blocks](https://www.youtube.com/watch?v=FS4JAy1Wy3w)
+* [KVO](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html)
+* [KVC](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html)
+* [Bridging with Swift](https://developer.apple.com/documentation/swift/imported_c_and_objective-c_apis/importing_objective-c_into_swift#:~:text=Xcode%20offers%20to%20create%20this,by%20%22%2DBridging%2DHeader.)
 
 # Memory Management
 * [Automatic Reference Counting](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
