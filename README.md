@@ -178,3 +178,7 @@ Apple provide us some design principles for all the different platforms in its e
 
 ## Xcode Previews
 * [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233/)
+
+# Internationalization
+* [Localize an App](https://developer.apple.com/documentation/xcode/localizing_your_app)
+* [Localized Experience in iOS 13](https://developer.apple.com/videos/play/wwdc2019/403/)
