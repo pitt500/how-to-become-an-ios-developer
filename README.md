@@ -64,6 +64,7 @@ The following list include the most important concepts you should know in order 
 * [Push Notifications](#push-notifications)
 * [Persisting Data](#persisting-data)
 * [SwiftUI](#swiftui)
+* [Internationalization](#internationalization)
 
 # Languages
 iOS Support two languages: Objective-C (used for two decades) and Swift from 2014. You can create apps with a single of these languages or mix them if it's convinient. Nowadays, Apple take Swift as its main language for development, however, there are a lot of legacy apps that still require support from Objective-C (because is expensive and time consuming doing a migration), that's why it's important to know both of them.
