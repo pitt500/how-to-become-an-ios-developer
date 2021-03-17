@@ -65,6 +65,7 @@ The following list include the most important concepts you should know in order 
 * [Persisting Data](#persisting-data)
 * [SwiftUI](#swiftui)
 * [Internationalization](#internationalization)
+* [Reactive Funtional Programming](#reactive-functional-programming)
 
 # Languages
 iOS Support two languages: Objective-C (used for two decades) and Swift from 2014. You can create apps with a single of these languages or mix them if it's convinient. Nowadays, Apple take Swift as its main language for development, however, there are a lot of legacy apps that still require support from Objective-C (because is expensive and time consuming doing a migration), that's why it's important to know both of them.
@@ -183,3 +184,6 @@ Apple provide us some design principles for all the different platforms in its e
 # Internationalization
 * [Localize an App](https://developer.apple.com/documentation/xcode/localizing_your_app)
 * [Localized Experience in iOS 13](https://developer.apple.com/videos/play/wwdc2019/403/)
+
+
+# Reactive Functional Programming
