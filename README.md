@@ -187,3 +187,11 @@ Apple provide us some design principles for all the different platforms in its e
 
 
 # Reactive Functional Programming
+
+## Combine
+* [Combine Documentation from Apple](https://developer.apple.com/documentation/combine)
+* [Combine: Asynchronous Programming with Swift](https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0)
+
+## RxSwift
+* [Official Repo](https://github.com/ReactiveX/RxSwift)
+* [RxSwift: Reactive Programming with Swift](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0)
